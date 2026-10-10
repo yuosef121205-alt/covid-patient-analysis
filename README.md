@@ -4,6 +4,8 @@ Exploratory analysis of 1M+ COVID-19 patient records using Python (Pandas).
 
 ## Dataset
 COVID-19 patient data from Kaggle. The file is not included because of its size.
+COVID-19 patient data from [Kaggle](https://www.kaggle.com/datasets/meirnizri/covid19-dataset). The file is not included because of its size.
+
 
 ## What I Did
 - Explored the dataset structure (1,048,575 rows, 21 columns)
